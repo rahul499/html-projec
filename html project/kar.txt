@@ -1,0 +1,5 @@
+<html> <head> <title> Himachal Tourism </title> </head> <body bgcolor="powderblue"> <h1><p align="center"><font color="seagreen"> HIMACHAL PRADESH TOURISM</font> </p></h1>
+<p align="center" ><img src="http://www.chandigarhmohalitaxiservice.com/images/sidhu-taxi-services-himachal-tourism.jpg"  > </p>    
+<h2><marquee behaviour="scroll" bgcolor="skyblue"  height=50 hspace=100 vspace=100 scroll delay=100 loop=100>UNFORGETTABLE HIMACHAL</marquee></h2><hr>
+<h2><p> The Great Himalyas</p></h2>
+<h3><p> <font color="skyblue">‘Himalayas in Himachal’ or one must say Himachal in Himalayas. ‘Him’ in Hindi literally means ice or snow and ‘alaya’ means home, which makes Himalayas ‘The Home of Snow’ and from there Himachal gets its name meaning ‘Land of Snow’.The Himalayas affect the climate of Himachal as well. Huge variations in the elevations of mountains (from 450m to 6500m) cause big differences in climatic conditions</font></p></h3>
